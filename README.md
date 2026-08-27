@@ -13,7 +13,7 @@ https://aksara-sunda-9au29mscs925kt84m4pqkm.streamlit.app/
 
 ## Screenshots
 
-![App Screenshot](/gambar/Screenshot 2026-08-28 065020.png)
+![App Screenshot](./gambar/Screenshot%202026-08-28%20065020.png)
 
 ![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
