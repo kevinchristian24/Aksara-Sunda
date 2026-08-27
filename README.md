@@ -17,7 +17,7 @@ https://aksara-sunda-9au29mscs925kt84m4pqkm.streamlit.app/
 
 ![App Screenshot](./gambar/Screenshot%202026-08-28%20065106.png)
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./gambar/Screenshot%202026-08-28%20065139.png)
 
 ## Tech Stack
 
